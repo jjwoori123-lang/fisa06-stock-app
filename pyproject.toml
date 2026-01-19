@@ -1,0 +1,12 @@
+[project]
+name = "03-streamlit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "finance-datareader>=0.9.101",
+    "koreanize-matplotlib>=0.1.1",
+    "matplotlib>=3.10.8",
+    "streamlit>=1.53.0",
+]
